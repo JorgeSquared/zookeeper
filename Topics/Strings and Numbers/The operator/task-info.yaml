@@ -1,0 +1,22 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: number
+- text: typeoff
+- text: typeof
+- text: string
+files:
+- name: main.js
+  visible: true
+  text: |+
+    // You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8195#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Fri, 06 May 2022 11:44:09 UTC
+record: -1
+selected_options:
+- 2
